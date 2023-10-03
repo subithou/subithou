@@ -6,18 +6,20 @@ I'm a Certified Genesys Cloud CX Graduate Developer with a passion for creating 
 
 ## Tech Stack
 
-- 💻 Python, NodeJS
+- 💻 Python | NodeJS
 - 🌐 Django & Flask
-- ⚛️ React
+- ⚛️ React | Tailwind CSS
 - 🎨 UI/UX Design (Figma, Adobe XD)
 
 ## Portfolio
 
-Check out my github at [https://github.com/subithou] to see some of my recent work and the exciting projects I've been involved in.
+Check out my [github](https://github.com/subithou) to see some of my recent work and the exciting projects I've been involved in.
+
+📷 Photography is my way of freezing moments in time. Dive into my photography portfolio [here](https://www.subithouphotography.com/).
 
 ## Contact
 
-📫 You can reach me at [ousubith@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/subith-o-u-9b003716b/).
+📫 You can reach me at [Email](ousubith@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/subith-o-u-9b003716b/).
 
 Let's connect, collaborate, and create amazing solutions together! Feel free to explore my repositories, and don't hesitate to reach out for discussions, contributions, or just a tech chat.
 
