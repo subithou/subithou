@@ -6,7 +6,7 @@ I'm a Certified Genesys Cloud CX Graduate Developer with a passion for creating 
 
 ## Tech Stack
 
-- 💻 Python
+- 💻 Python, NodeJS
 - 🌐 Django & Flask
 - ⚛️ React
 - 🎨 UI/UX Design (Figma, Adobe XD)
