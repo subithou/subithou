@@ -6,10 +6,12 @@ I'm a Certified Genesys Cloud CX Graduate Developer with a passion for creating 
 
 ## Tech Stack
 
-- 💻 Python | NodeJS
-- 🌐 Django & Flask
-- ⚛️ React | Tailwind CSS
+- ⚛️ React | Node.js
+- :snake: Python | Django | Flask
+- 🧠 Machine Learning | Data Science & Analytics
 - 🎨 UI/UX Design (Figma, Adobe XD)
+- 🌐 HTML | CSS | Tailwind CSS | Bootstrap
+- 📊 Databases: MySQL | MongoDB
 
 ## Portfolio
 
