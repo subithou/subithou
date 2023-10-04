@@ -5,7 +5,7 @@
 I'm a Certified Genesys Cloud CX Graduate Developer with a passion for creating exceptional digital experiences. My skill set spans from backend development using Python, Django, and Flask to front-end development with React. Additionally, I'm a UI/UX Designer proficient in Figma and Adobe XD, ensuring that the projects I work on not only function flawlessly but also look stunning.
 
 ## Tech Stack
-
+- ☁️ Certified Genesys Cloud Developer
 - ⚛️ React | Node.js
 - :snake: Python | Django | Flask
 - 🧠 Machine Learning | Data Science & Analytics
