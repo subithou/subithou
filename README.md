@@ -21,7 +21,7 @@ Check out my [github](https://github.com/subithou) to see some of my recent work
 
 ## Contact
 
-📫 You can reach me at [Email](ousubith@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/subith-o-u-9b003716b/).
+📫 You can reach me at _ousubith@gmail.com_ or connect with me on [LinkedIn](https://www.linkedin.com/in/subith-o-u-9b003716b/).
 
 Let's connect, collaborate, and create amazing solutions together! Feel free to explore my repositories, and don't hesitate to reach out for discussions, contributions, or just a tech chat.
 
