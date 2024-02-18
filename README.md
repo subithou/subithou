@@ -18,6 +18,7 @@ I'm a Certified Genesys Cloud CX Graduate Developer with a passion for creating 
 Check out my [github](https://github.com/subithou) to see some of my recent work and the exciting projects I've been involved in.
 
 📷 Photography is my way of freezing moments in time. Dive into my photography portfolio [here](https://www.subithouphotography.com/).
+🎨 Designer and editor of department technical magazine [here](https://subithou.github.io/Magazine/).
 
 ## Contact
 
